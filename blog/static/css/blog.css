@@ -14,10 +14,12 @@
     margin-left: 40px;
 }
 
-h1, h2, h3, h4 {
+h1 {
     font-family: 'Lobster', cursive;
 }
-
+h2,h3,h4{
+     font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
 .date {
     color: #4DFAF1;
 }
